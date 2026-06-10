@@ -1,8 +1,7 @@
-<!-- Cybersecurity Profile README – AimyDefense -->
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:1e3a8a&height=180&section=header&text=Anna%20%Mátyás%20&fontSize=36&fontColor=38bdf8&animation=fadeIn" />
-</p>
+<!-- Animated Wave Header -->
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,20&height=200&section=header&text=Anna%20Mátyás&fontSize=90&fontAlignY=35&animation=fadeIn&fontColor=fff&desc=IT%20Support%20Engineer%20%7C%20SOC%20Analyst%20%7C%20Kotlin%20Scripting&descAlignY=65&descSize=20" width="100%" />
+</div>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Role-Cybersecurity%20Trainee-0f172a?style=for-the-badge&logo=protonvpn&logoColor=38bdf8" />
