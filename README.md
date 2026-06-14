@@ -3,12 +3,17 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,20&height=200&section=header&text=Anna%20Mátyás&fontSize=90&fontAlignY=35&animation=fadeIn&fontColor=fff&desc=IT%20Support%20Engineer%20%7C%20SOC%20Analyst%20%7C%20Kotlin%20Scripting&descAlignY=65&descSize=20" width="100%" />
 </div>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Role-Cybersecurity%20Trainee-0f172a?style=for-the-badge&logo=protonvpn&logoColor=38bdf8" />
-  <img src="https://img.shields.io/badge/Focus-Blue%20Team-1e293b?style=for-the-badge&logo=shield&logoColor=22c55e" />
-  <img src="https://img.shields.io/badge/Location-Prague-0f172a?style=for-the-badge&logo=googlemaps&logoColor=f472b6" />
-  <img src="https://img.shields.io/badge/Aesthetic-Cyberpunk%20Neon-1e293b?style=for-the-badge&logo=neovim&logoColor=38bdf8" />
-</p>
+<!-- Social Links & Stats -->
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/matyasa)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mikmatyas@gmail.com)
+[![ArtStation](https://img.shields.io/badge/ArtStation-13AFF0?style=for-the-badge&logo=artstation&logoColor=white)](https://www.artstation.com/amimatyas)
+[![Adobe Portfolio](https://img.shields.io/badge/Adobe%20Portfolio-31A8FF?style=for-the-badge&logo=adobe&logoColor=white)](https://matyasami.myportfolio.com)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AimyDefense)
+
+</div>
+
 
 ---
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="30"> About Me
@@ -60,10 +65,12 @@
 
 <!-- Microsoft Certified Cybersecurity Analyst -->
 <td align="center" width="25%">
-<img src="https://img.shields.io/badge/Microsoft-Cybersecurity%20Analyst-2D7DFF?style=for-the-badge&logo=microsoft&logoColor=white" alt="Microsoft Cybersecurity Analyst"/>
-<br/><strong>Microsoft Certified Cybersecurity Analyst</strong><br/>
-<sub>2024</sub>
+  <img src="https://img.shields.io/badge/Microsoft-Cybersecurity%20Analyst-2D7DFF?style=for-the-badge&logo=microsoft" alt="Microsoft Cybersecurity Analyst"/>
+  <br/><strong>Microsoft Certified Cybersecurity Analyst</strong><br/>
+  <sub>2024</sub>
 </td>
+
+
 
 <!-- Google Ads & Digital Advertising -->
 <td align="center" width="25%">
@@ -77,10 +84,11 @@
 
 <!-- Google Digital Marketing -->
 <td align="center" width="25%">
-<img src="https://img.shields.io/badge/Google-Digital%20Marketing-34A853?style=for-the-badge&logo=google&logoColor=white" alt="Google Digital Marketing"/>
+<img src="https://img.shields.io/badge/Google-Digital%20Marketing-eeeeee?style=for-the-badge&logo=google" alt="Google Digital Marketing"/>
 <br/><strong>Google Certified Digital Marketing</strong><br/>
 <sub>2020</sub>
 </td>
+
 
 <!-- Computer Operations Diploma -->
 <td align="center" width="25%">
