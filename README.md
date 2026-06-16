@@ -6,8 +6,6 @@
 <!-- Social Links & Stats -->
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/matyasa)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mikmatyas@gmail.com)
 [![ArtStation](https://img.shields.io/badge/ArtStation-13AFF0?style=for-the-badge&logo=artstation&logoColor=white)](https://www.artstation.com/amimatyas)
 [![Adobe Portfolio](https://img.shields.io/badge/Adobe%20Portfolio-31A8FF?style=for-the-badge&logo=adobe&logoColor=white)](https://matyasami.myportfolio.com)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AimyDefense)
@@ -48,6 +46,15 @@
 
 <table>
 <tr>
+  
+<!-- SOC Level 1 – TryHackMe -->
+<td align="center" width="25%">
+  <img height="40" style="width:180px;" 
+       src="https://img.shields.io/badge/TryHackMe-SOC%20Level%201-EF0000?style=for-the-badge&logo=tryhackme&logoColor=white" 
+       alt="TryHackMe SOC Level 1"/>
+  <br/><strong> SOC Level 1</strong><br/>
+  <sub>2026 – ongoing</sub>
+</td>
 
 <!-- Python 3 – Codecademy -->
 <td align="center" width="25%">
@@ -70,13 +77,13 @@
   <sub>2024</sub>
 </td>
 
-
-
 <!-- Google Ads & Digital Advertising -->
 <td align="center" width="25%">
-<img src="https://img.shields.io/badge/Google%20Ads-Digital%20Advertising-4285F4?style=for-the-badge&logo=googleads&logoColor=white" alt="Google Ads"/>
-<br/><strong>Diploma in Digital Advertising & Google Ads</strong><br/>
-<sub>2021</sub>
+  <img height="40" style="width:180px;"
+       src="https://img.shields.io/badge/Google%20Ads-Digital%20Advertising-4285F4?style=for-the-badge&logo=googleads&logoColor=white" 
+       alt="Google Ads Diploma"/>
+  <br/><strong>Diploma in Digital Advertising & Google Ads</strong><br/>
+  <sub>2021</sub>
 </td>
 
 </tr>
@@ -89,7 +96,6 @@
 <sub>2020</sub>
 </td>
 
-
 <!-- Computer Operations Diploma -->
 <td align="center" width="25%">
 <img src="https://img.shields.io/badge/Computer%20Operations-Diploma-6B7280?style=for-the-badge&logo=windows&logoColor=white" alt="Computer Science Diploma"/>
@@ -100,6 +106,14 @@
 </tr>
 </table>
 
+</div>
+
+## 📨 Get In Touch
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/matyasa)
+[![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mikmatyas@gmail.com)
+
+<br/>
 </div>
 
 
