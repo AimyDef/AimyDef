@@ -35,7 +35,7 @@
     - Structured workflows
     - Analytical thinking
     - Clear documentation
-    - Multilingual communication
+    - Multilingual communication (HU, RO, EN)
     -  motto: "Defend. Detect. Document. Improve"
 ```
 
