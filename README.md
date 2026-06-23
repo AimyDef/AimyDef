@@ -54,7 +54,7 @@
   <img height="55" style="width:220px;" 
        src="https://img.shields.io/badge/TryHackMe-SOC%20Level%201-EF0000?style=for-the-badge&logo=tryhackme&logoColor=white"/>
   <br/><strong style="font-size:14px;">SOC Level 1</strong><br/>
-  <sub style="font-size:12px;">2026 – ongoing</sub>
+  <sub style="font-size:12px;">2026 - ongoing</sub>
 </td>
 
 <!-- Python 3 – Codecademy -->
@@ -81,7 +81,7 @@
 <td align="center" width="25%">
   <a href="https://drive.google.com/file/d/1R3aqreIVyIn0wZr81Dj2GXK5kAuusfad/view?usp=sharing" target="_blank">
     <img height="60" style="width:240px; box-shadow:0 0 10px rgba(45,125,255,0.6); border-radius:6px;"
-         src="https://img.shields.io/badge/Microsoft-Cybersecurity%20Analyst-0057D8?style=for-the-badge&logo=microsoft&logoColor=white"/>
+         src="https://img.shields.io/badge/Microsoft-Cybersecurity%20Analyst-0057D8?style=for-the-badge&logo=microsoft&logoColor=white&logoWidth=50"/>
   </a>
   <br/><strong style="font-size:15px; color:#2D7DFF;">Microsoft Cybersecurity Analyst</strong><br/>
   <sub style="font-size:12px;">2024</sub>
@@ -94,7 +94,7 @@
 <td align="center" width="25%">
   <a href="https://drive.google.com/file/d/1OBRlO3JW2j5KAzgb6a9cHAXtyppDUuKA/view?usp=sharing" target="_blank">
     <img height="55" style="width:220px;"
-         src="https://img.shields.io/badge/Google%20Ads-Digital%20Advertising-4285F4?style=for-the-badge&logo=googleads&logoColor=white"/>
+         src="https://img.shields.io/badge/Google%20Ads-Digital%20Advertising-4285F4?style=for-the-badge&logo=googleads&logoColor=white&logoWidth=50"/>
   </a>
   <br/><strong style="font-size:14px;">Diploma in Digital Advertising & Google Ads</strong><br/>
   <sub style="font-size:12px;">2021</sub>
@@ -113,7 +113,7 @@
 <!-- Computer Operations Diploma (HIGHLIGHTED) -->
 <td align="center" width="25%">
   <img height="60" style="width:240px; box-shadow:0 0 10px rgba(107,114,128,0.6); border-radius:6px;"
-       src="https://img.shields.io/badge/Computer%20Operations-Diploma-4B5563?style=for-the-badge&logo=windows&logoColor=white"/>
+       src="https://img.shields.io/badge/Computer%20Operations-Diploma-4B5563?style=for-the-badge&logo=windows&logoColor=white&logoWidth=50"/>
   <br/><strong style="font-size:15px; color:#9CA3AF;">Professional Diploma in Computer Science</strong><br/>
   <sub style="font-size:12px;">2009</sub>
 </td>
