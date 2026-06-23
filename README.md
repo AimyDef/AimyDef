@@ -59,24 +59,30 @@
 
 <!-- Python 3 – Codecademy -->
 <td align="center" width="25%">
-  <img height="55" style="width:220px;"
-       src="https://img.shields.io/badge/Python%203-Codecademy-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <a href="https://drive.google.com/file/d/1Xwn70nXeAN5Yvfm6WirqfVXQbGty2LW8/view?usp=sharing" target="_blank">
+    <img height="55" style="width:220px;"
+         src="https://img.shields.io/badge/Python%203-Codecademy-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  </a>
   <br/><strong style="font-size:14px;">Python 3</strong><br/>
   <sub style="font-size:12px;">2025</sub>
 </td>
 
 <!-- Diploma in Python Programming – Alison -->
 <td align="center" width="25%">
-  <img height="55" style="width:220px;"
-       src="https://img.shields.io/badge/Python%20Diploma-Alison-0A66C2?style=for-the-badge&logo=python&logoColor=white"/>
+  <a href="https://drive.google.com/file/d/1na2ElHz8lYaXlHbGTDRYoHlkV8tROSAl/view?usp=sharing" target="_blank">
+    <img height="55" style="width:220px;"
+         src="https://img.shields.io/badge/Python%20Diploma-Alison-0A66C2?style=for-the-badge&logo=python&logoColor=white"/>
+  </a>
   <br/><strong style="font-size:14px;">Diploma in Python Programming</strong><br/>
   <sub style="font-size:12px;">2025</sub>
 </td>
 
-<!-- Microsoft Certified Cybersecurity Analyst (HIGHLIGHTED) -->
+<!-- Microsoft Certified Cybersecurity Analyst  -->
 <td align="center" width="25%">
-  <img height="60" style="width:240px; box-shadow:0 0 10px rgba(45,125,255,0.6); border-radius:6px;"
-       src="https://img.shields.io/badge/Microsoft-Cybersecurity%20Analyst-0057D8?style=for-the-badge&logo=microsoft&logoColor=white"/>
+  <a href="https://drive.google.com/file/d/1R3aqreIVyIn0wZr81Dj2GXK5kAuusfad/view?usp=sharing" target="_blank">
+    <img height="60" style="width:240px; box-shadow:0 0 10px rgba(45,125,255,0.6); border-radius:6px;"
+         src="https://img.shields.io/badge/Microsoft-Cybersecurity%20Analyst-0057D8?style=for-the-badge&logo=microsoft&logoColor=white"/>
+  </a>
   <br/><strong style="font-size:15px; color:#2D7DFF;">Microsoft Cybersecurity Analyst</strong><br/>
   <sub style="font-size:12px;">2024</sub>
 </td>
@@ -86,16 +92,20 @@
 
 <!-- Google Ads & Digital Advertising -->
 <td align="center" width="25%">
-  <img height="55" style="width:220px;"
-       src="https://img.shields.io/badge/Google%20Ads-Digital%20Advertising-4285F4?style=for-the-badge&logo=googleads&logoColor=white"/>
+  <a href="https://drive.google.com/file/d/1OBRlO3JW2j5KAzgb6a9cHAXtyppDUuKA/view?usp=sharing" target="_blank">
+    <img height="55" style="width:220px;"
+         src="https://img.shields.io/badge/Google%20Ads-Digital%20Advertising-4285F4?style=for-the-badge&logo=googleads&logoColor=white"/>
+  </a>
   <br/><strong style="font-size:14px;">Diploma in Digital Advertising & Google Ads</strong><br/>
   <sub style="font-size:12px;">2021</sub>
 </td>
 
 <!-- Google Digital Marketing -->
 <td align="center" width="25%">
-  <img height="55" style="width:220px;"
-       src="https://img.shields.io/badge/Google-Digital%20Marketing-eeeeee?style=for-the-badge&logo=google"/>
+  <a href="https://drive.google.com/file/d/1CexuYy-5PGt70Gm8YtDDM6yBUTYYRlY2/view?usp=sharing" target="_blank">
+    <img height="55" style="width:220px;"
+         src="https://img.shields.io/badge/Google-Digital%20Marketing-eeeeee?style=for-the-badge&logo=google"/>
+  </a>
   <br/><strong style="font-size:14px;">Google Certified Digital Marketing</strong><br/>
   <sub style="font-size:12px;">2020</sub>
 </td>
